@@ -61,7 +61,7 @@ export default function About() {
             {/* Right - Image */}
             <div className="h-96 md:h-[480px] rounded-xl overflow-hidden shadow-2xl">
               <img
-                src="/images/farmers.jpg"
+                src={`${import.meta.env.BASE_URL}images/farmers.jpg`}
                 alt="Rwandan tea farmers"
                 className="w-full h-full object-cover"
               />
@@ -77,7 +77,7 @@ export default function About() {
             {/* Left - Image */}
             <div className="h-96 md:h-[480px] rounded-xl overflow-hidden shadow-2xl order-2 md:order-1">
               <img
-                src="/images/about-tea.jpg"
+                src={`${import.meta.env.BASE_URL}images/about-tea.jpg`}
                 alt="Premium tea leaves"
                 className="w-full h-full object-cover"
               />
@@ -175,7 +175,7 @@ export default function About() {
             {/* Right - Image */}
             <div className="h-96 md:h-[520px] rounded-xl overflow-hidden shadow-2xl">
               <img
-                src="/images/about-coffee.jpg"
+                src={`${import.meta.env.BASE_URL}images/about-coffee.jpg`}
                 alt="Delivery ready packages"
                 className="w-full h-full object-cover"
               />
@@ -191,7 +191,7 @@ export default function About() {
             {/* Left - Image */}
             <div className="h-96 md:h-[480px] rounded-xl overflow-hidden shadow-2xl order-2 md:order-1">
               <img
-                src="/images/coffee-1.jpg"
+                src={`${import.meta.env.BASE_URL}images/coffee-1.jpg`}
                 alt="Premium coffee processing"
                 className="w-full h-full object-cover"
               />

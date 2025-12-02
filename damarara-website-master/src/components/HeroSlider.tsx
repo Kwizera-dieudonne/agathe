@@ -2,22 +2,22 @@ import { useState, useEffect } from 'react';
 
 const slides = [
   {
-    image: '/images/hero-1.jpg',
+    image: `${import.meta.env.BASE_URL}images/hero-1.jpg`,
     title: 'From the Northern Hills of Rwanda',
     subtitle: 'To your teacup — Discover your new home with Damarara'
   },
   {
-    image: '/images/hero-2.jpg',
+    image: `${import.meta.env.BASE_URL}images/hero-2.jpg`,
     title: 'Premium Coffee Beans',
     subtitle: 'Sustainably sourced from Rwanda\'s finest farms'
   },
   {
-    image: '/images/hero-3.jpg',
+    image: `${import.meta.env.BASE_URL}images/hero-3.jpg`,
     title: 'Exceptional Tea Selection',
     subtitle: 'Hand-picked leaves for the perfect brew'
   },
   {
-    image: '/images/hero-4.jpg',
+    image: `${import.meta.env.BASE_URL}images/hero-4.jpg`,
     title: 'Crafted with Care',
     subtitle: 'Every cup tells a story of quality and tradition'
   }

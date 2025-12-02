@@ -60,9 +60,9 @@ export default function Header() {
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center space-x-3 group cursor-pointer">
             <div className="w-10 h-10 rounded-lg overflow-hidden bg-gold-500/20 flex items-center justify-center flex-shrink-0 group-hover:bg-gold-500/30 transition-colors">
-              <img 
-                src="/images/logo.png" 
-                alt="Damarara Logo" 
+              <img
+                src={`${import.meta.env.BASE_URL}images/logo.png`}
+                alt="Damarara Logo"
                 className="w-8 h-8 object-contain drop-shadow-lg"
               />
             </div>
