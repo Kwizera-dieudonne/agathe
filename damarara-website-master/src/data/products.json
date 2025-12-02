@@ -1,0 +1,92 @@
+{
+  "all": [
+    {
+      "id": "tea-1",
+      "name": "Premium Black Tea",
+      "description": "Rich, full-bodied black tea from Rwanda's northern highlands",
+      "category": "tea",
+      "image": "/images/tea-1.jpg"
+    },
+    {
+      "id": "tea-2",
+      "name": "Green Mountain Tea",
+      "description": "Delicate green tea with subtle floral notes",
+      "category": "tea",
+      "image": "/images/tea-2.jpg"
+    },
+    {
+      "id": "tea-3",
+      "name": "White Pearl Tea",
+      "description": "Rare white tea with naturally sweet undertones",
+      "category": "tea",
+      "image": "/images/tea-3.jpg"
+    },
+    {
+      "id": "coffee-1",
+      "name": "Arabica Sunrise",
+      "description": "Single-origin Arabica with bright citrus notes",
+      "category": "coffee",
+      "image": "/images/coffee-1.jpg"
+    },
+    {
+      "id": "coffee-2",
+      "name": "Dark Roast Blend",
+      "description": "Bold, smoky blend perfect for espresso",
+      "category": "coffee",
+      "image": "/images/coffee-2.jpg"
+    },
+    {
+      "id": "coffee-3",
+      "name": "Medium Roast Classic",
+      "description": "Balanced, smooth coffee for everyday enjoyment",
+      "category": "coffee",
+      "image": "/images/coffee-1.jpg"
+    }
+  ],
+  "tea": [
+    {
+      "id": "tea-1",
+      "name": "Premium Black Tea",
+      "description": "Rich, full-bodied black tea from Rwanda's northern highlands",
+      "category": "tea",
+      "image": "/images/tea-1.jpg"
+    },
+    {
+      "id": "tea-2",
+      "name": "Green Mountain Tea",
+      "description": "Delicate green tea with subtle floral notes",
+      "category": "tea",
+      "image": "/images/tea-2.jpg"
+    },
+    {
+      "id": "tea-3",
+      "name": "White Pearl Tea",
+      "description": "Rare white tea with naturally sweet undertones",
+      "category": "tea",
+      "image": "/images/tea-3.jpg"
+    }
+  ],
+  "coffee": [
+    {
+      "id": "coffee-1",
+      "name": "Arabica Sunrise",
+      "description": "Single-origin Arabica with bright citrus notes",
+      "category": "coffee",
+      "image": "/images/coffee-1.jpg"
+    },
+    {
+      "id": "coffee-2",
+      "name": "Dark Roast Blend",
+      "description": "Bold, smoky blend perfect for espresso",
+      "category": "coffee",
+      "image": "/images/coffee-2.jpg"
+    },
+    {
+      "id": "coffee-3",
+      "name": "Medium Roast Classic",
+      "description": "Balanced, smooth coffee for everyday enjoyment",
+      "category": "coffee",
+      "image": "/images/coffee-1.jpg"
+    }
+  ]
+}

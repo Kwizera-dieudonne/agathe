@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "role": "Coffee Enthusiast",
+    "content": "Damarara's coffee has completely transformed my morning routine. The quality and freshness are unmatched. I can taste the care that goes into every batch.",
+    "initials": "SJ"
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "role": "Tea Connoisseur",
+    "content": "As someone who has tried teas from around the world, Damarara's green tea stands out. The subtle complexity and smooth finish make it my daily go-to.",
+    "initials": "MC"
+  },
+  {
+    "id": 3,
+    "name": "Emma Thompson",
+    "role": "Restaurant Owner",
+    "content": "We've partnered with Damarara for our café and our customers love it. The consistency and ethical sourcing align perfectly with our values.",
+    "initials": "ET"
+  }
+]
